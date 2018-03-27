@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfPerson12 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person12>
+    <ApplicaName1>John kethi</ApplicaName1>
+    <SSNNo>UTGDY65577</SSNNo>
+    <Citizen>UnitedState</Citizen>
+  </Person12>
+  <Person12>
+    <ApplicaName1>Angelina Marry</ApplicaName1>
+    <SSNNo>USIDTY466565</SSNNo>
+    <Citizen>GERMANY</Citizen>
+  </Person12>
+  <Person12>
+    <ApplicaName1>Nitesh Bansal</ApplicaName1>
+    <SSNNo>UUYLK78876678</SSNNo>
+    <Citizen>BARMUDA</Citizen>
+  </Person12>
+  <Person12>
+    <ApplicaName1>Bal Krishna</ApplicaName1>
+    <SSNNo>USASSNOC76865</SSNNo>
+    <Citizen>U.s.A</Citizen>
+  </Person12>
+</ArrayOfPerson12>
+
